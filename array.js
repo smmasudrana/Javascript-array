@@ -5,7 +5,7 @@
 
 const numbers= [10, 11, 12, 13, 14, 15, 16]
 console.log(numbers);
-console.log(length numbers);
+console.log(numbers );
 
 const friends =['masud', 'masud', 'masud', 'masud']  //strings
 const passed =[true, false, true, false, false]      //boolean
